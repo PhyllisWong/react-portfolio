@@ -45,7 +45,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Project Milestones
 - [ ] Define project scope Feb 19
-Feb 20 - Create project milestones
-Feb 22 - Develop milestones
-Feb 22 - Define components
-Feb 23 - Create mobile responsive 
+- [ ] Create project milestones Feb 20
+- [ ] Develop milestones Feb 22
+- [ ] Define components Feb 22
+- [ ] Create mobile responsive Feb 23 

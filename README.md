@@ -46,7 +46,16 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 &nbsp;  
 &nbsp;
 
+## Project Scope
+This project is going to be a mobile first web app for showing the web applications I have completed while a student at Make School Product College. This project will have a navigation, a footer, and a single section to display each project. 
+&nbsp;  
 
+#### Future Features
+- [ ] Users will be able to select each project and display a detail view of the project.
+- [ ] Users will be able to click a link that will display details about me.
+
+&nbsp;  
+&nbsp;
 ## Project Milestones
 | Task                            | Date   |
 | ------------------------------- | ------ |

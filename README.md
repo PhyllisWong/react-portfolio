@@ -46,7 +46,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### Project Milestones
 | Task                            | Date   |
 | ------------------------------- | ------ |
-| - [ ] Define project scope      | Feb 19 |
+| <li>- [ ] Define project scope </li>     | Feb 19 |
 | - [ ] Create project milestones | Feb 20 |
 | - [ ] Develop milestones        | Feb 22 |
 | - [ ] Define components         | Feb 22 |

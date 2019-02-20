@@ -60,7 +60,7 @@ This project is going to be a mobile first web app for showing the web applicati
 | Task                            | Date   |
 | ------------------------------- | ------ |
 | <ul><li>- [ ] Define project scope</li></ul>| Feb 19 |
-| <ul><li>- [ ] Create project milestones</li></ul>| Feb 20 |
+| <ul><li>- [ ] Create project milestones</li></ul>| Feb 19 |
 | <ul><li>- [ ] Develop milestones</li></ul>| Feb 22 |
 | <ul><li>- [ ] Define components</li></ul>| Feb 22 |
 | <ul><li>- [ ] Create Style Guide</li></ul>| Feb 22 |

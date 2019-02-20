@@ -1,4 +1,3 @@
-<pre>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -44,9 +43,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+&nbsp;  
+&nbsp;
 
-</pre>
-### Project Milestones
+
+## Project Milestones
 | Task                            | Date   |
 | ------------------------------- | ------ |
 | <ul><li>- [ ] Define project scope</li></ul>| Feb 19 |
@@ -54,6 +55,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 | <ul><li>- [ ] Develop milestones</li></ul>| Feb 22 |
 | <ul><li>- [ ] Define components</li></ul>| Feb 22 |
 | <ul><li>- [ ] Create Style Guide</li></ul>| Feb 22 |
+| <ul><li>- [ ] Create Button Components</li></ul>| Feb 23 |
 | <ul><li>- [ ] Create mobile responsive Navbar</li></ul>| Feb 23 |
 | <ul><li>- [ ] Create mobile responsive Footer</li></ul>| Feb 24 |
 | <ul><li>- [ ] Create mobile responsive Projects Section</li></ul>| Feb 25 |

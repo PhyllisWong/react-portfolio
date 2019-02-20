@@ -42,7 +42,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
+<br>
 ### Project Milestones
 | Task                            | Date   |
 | ------------------------------- | ------ |
@@ -50,4 +50,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 | <ul><li>- [ ] Create project milestones</li></ul>| Feb 20 |
 | <ul><li>- [ ] Develop milestones</li></ul>| Feb 22 |
 | <ul><li>- [ ] Define components</li></ul>| Feb 22 |
-| <ul><li>- [ ] Create mobile responsive</li></ul>| Feb 23 |
+| <ul><li>- [ ] Create Style Guide</li></ul>| Feb 22 |
+| <ul><li>- [ ] Create mobile responsive Navbar</li></ul>| Feb 23 |
+| <ul><li>- [ ] Create mobile responsive Footer</li></ul>| Feb 24 |
+| <ul><li>- [ ] Create mobile responsive Projects Section</li></ul>| Feb 25 |
+| <ul><li>- [ ] Create Project Component</li></ul>| Feb 23 |

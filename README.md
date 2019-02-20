@@ -43,9 +43,20 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Project Milestones
-- [ ] Define project scope Feb 19
-Feb 20 - Create project milestones
-Feb 22 - Develop milestones
-Feb 22 - Define components
-Feb 23 - Create mobile responsive 
+&nbsp;  
+&nbsp;
+
+
+## Project Milestones
+| Task                            | Date   |
+| ------------------------------- | ------ |
+| <ul><li>- [ ] Define project scope</li></ul>| Feb 19 |
+| <ul><li>- [ ] Create project milestones</li></ul>| Feb 20 |
+| <ul><li>- [ ] Develop milestones</li></ul>| Feb 22 |
+| <ul><li>- [ ] Define components</li></ul>| Feb 22 |
+| <ul><li>- [ ] Create Style Guide</li></ul>| Feb 22 |
+| <ul><li>- [ ] Create Button Components</li></ul>| Feb 23 |
+| <ul><li>- [ ] Create mobile responsive Navbar</li></ul>| Feb 23 |
+| <ul><li>- [ ] Create mobile responsive Footer</li></ul>| Feb 24 |
+| <ul><li>- [ ] Create mobile responsive Projects Section</li></ul>| Feb 25 |
+| <ul><li>- [ ] Create Project Component</li></ul>| Feb 23 |
